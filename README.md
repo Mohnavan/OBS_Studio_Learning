@@ -1,1 +1,1 @@
-# OBS-Studio-Learning-
+# OBS_Studio_Learning
